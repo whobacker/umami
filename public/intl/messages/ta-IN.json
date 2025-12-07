@@ -11,7 +11,7 @@
       "value": "செயல்கள்"
     }
   ],
-  "label.activity-log": [
+  "label.activity": [
     {
       "type": 0,
       "value": "Activity log"
@@ -21,6 +21,12 @@
     {
       "type": 0,
       "value": "Add"
+    }
+  ],
+  "label.add-board": [
+    {
+      "type": 0,
+      "value": "Add board"
     }
   ],
   "label.add-description": [
@@ -35,6 +41,12 @@
       "value": "Add member"
     }
   ],
+  "label.add-step": [
+    {
+      "type": 0,
+      "value": "Add step"
+    }
+  ],
   "label.add-website": [
     {
       "type": 0,
@@ -45,6 +57,12 @@
     {
       "type": 0,
       "value": "நிர்வாகியைச் சேர்க்க"
+    }
+  ],
+  "label.affiliate": [
+    {
+      "type": 0,
+      "value": "Affiliate"
     }
   ],
   "label.after": [
@@ -71,16 +89,28 @@
       "value": "Analytics"
     }
   ],
+  "label.apply": [
+    {
+      "type": 0,
+      "value": "Apply"
+    }
+  ],
+  "label.attribution": [
+    {
+      "type": 0,
+      "value": "Attribution"
+    }
+  ],
+  "label.attribution-description": [
+    {
+      "type": 0,
+      "value": "See how users engage with your marketing and what drives conversions."
+    }
+  ],
   "label.average": [
     {
       "type": 0,
       "value": "Average"
-    }
-  ],
-  "label.average-visit-time": [
-    {
-      "type": 0,
-      "value": "சராசரி வருகை நேரம்"
     }
   ],
   "label.back": [
@@ -93,6 +123,12 @@
     {
       "type": 0,
       "value": "Before"
+    }
+  ],
+  "label.boards": [
+    {
+      "type": 0,
+      "value": "Boards"
     }
   ],
   "label.bounce-rate": [
@@ -119,6 +155,12 @@
       "value": "உலாவிகள்"
     }
   ],
+  "label.campaigns": [
+    {
+      "type": 0,
+      "value": "Campaigns"
+    }
+  ],
   "label.cancel": [
     {
       "type": 0,
@@ -129,6 +171,12 @@
     {
       "type": 0,
       "value": "கடவுச்சொல்லை மாற்று"
+    }
+  ],
+  "label.channels": [
+    {
+      "type": 0,
+      "value": "Channels"
     }
   ],
   "label.cities": [
@@ -149,6 +197,24 @@
       "value": "Clear all"
     }
   ],
+  "label.cohort": [
+    {
+      "type": 0,
+      "value": "Cohort"
+    }
+  ],
+  "label.compare": [
+    {
+      "type": 0,
+      "value": "Compare"
+    }
+  ],
+  "label.compare-dates": [
+    {
+      "type": 0,
+      "value": "Compare dates"
+    }
+  ],
   "label.confirm": [
     {
       "type": 0,
@@ -167,10 +233,40 @@
       "value": "Contains"
     }
   ],
+  "label.content": [
+    {
+      "type": 0,
+      "value": "Content"
+    }
+  ],
   "label.continue": [
     {
       "type": 0,
       "value": "Continue"
+    }
+  ],
+  "label.conversion": [
+    {
+      "type": 0,
+      "value": "Conversion"
+    }
+  ],
+  "label.conversion-rate": [
+    {
+      "type": 0,
+      "value": "Conversion rate"
+    }
+  ],
+  "label.conversion-step": [
+    {
+      "type": 0,
+      "value": "Conversion step"
+    }
+  ],
+  "label.count": [
+    {
+      "type": 0,
+      "value": "Count"
     }
   ],
   "label.countries": [
@@ -219,6 +315,18 @@
     {
       "type": 0,
       "value": "Created By"
+    }
+  ],
+  "label.currency": [
+    {
+      "type": 0,
+      "value": "Currency"
+    }
+  ],
+  "label.current": [
+    {
+      "type": 0,
+      "value": "Current"
     }
   ],
   "label.current-password": [
@@ -329,16 +437,40 @@
       "value": "சாதனங்கள்"
     }
   ],
+  "label.direct": [
+    {
+      "type": 0,
+      "value": "Direct"
+    }
+  ],
   "label.dismiss": [
     {
       "type": 0,
       "value": "நீக்கு"
     }
   ],
+  "label.distinct-id": [
+    {
+      "type": 0,
+      "value": "Distinct ID"
+    }
+  ],
   "label.does-not-contain": [
     {
       "type": 0,
       "value": "Does not contain"
+    }
+  ],
+  "label.does-not-include": [
+    {
+      "type": 0,
+      "value": "Does not include"
+    }
+  ],
+  "label.doest-not-exist": [
+    {
+      "type": 0,
+      "value": "Does not exist"
     }
   ],
   "label.domain": [
@@ -371,10 +503,28 @@
       "value": "Edit member"
     }
   ],
+  "label.email": [
+    {
+      "type": 0,
+      "value": "Email"
+    }
+  ],
   "label.enable-share-url": [
     {
       "type": 0,
       "value": "கள முகவரியை பகிரலாம்"
+    }
+  ],
+  "label.end-step": [
+    {
+      "type": 0,
+      "value": "End Step"
+    }
+  ],
+  "label.entry": [
+    {
+      "type": 0,
+      "value": "Entry URL"
     }
   ],
   "label.event": [
@@ -389,10 +539,28 @@
       "value": "Event data"
     }
   ],
+  "label.event-name": [
+    {
+      "type": 0,
+      "value": "Event name"
+    }
+  ],
   "label.events": [
     {
       "type": 0,
       "value": "நிகழ்வுகள்"
+    }
+  ],
+  "label.exists": [
+    {
+      "type": 0,
+      "value": "Exists"
+    }
+  ],
+  "label.exit": [
+    {
+      "type": 0,
+      "value": "Exit URL"
     }
   ],
   "label.false": [
@@ -437,6 +605,18 @@
       "value": "Filters"
     }
   ],
+  "label.first-click": [
+    {
+      "type": 0,
+      "value": "First click"
+    }
+  ],
+  "label.first-seen": [
+    {
+      "type": 0,
+      "value": "First seen"
+    }
+  ],
   "label.funnel": [
     {
       "type": 0,
@@ -449,6 +629,30 @@
       "value": "Understand the conversion and drop-off rate of users."
     }
   ],
+  "label.funnels": [
+    {
+      "type": 0,
+      "value": "Funnels"
+    }
+  ],
+  "label.goal": [
+    {
+      "type": 0,
+      "value": "Goal"
+    }
+  ],
+  "label.goals": [
+    {
+      "type": 0,
+      "value": "Goals"
+    }
+  ],
+  "label.goals-description": [
+    {
+      "type": 0,
+      "value": "Track your goals for pageviews and events."
+    }
+  ],
   "label.greater-than": [
     {
       "type": 0,
@@ -459,6 +663,30 @@
     {
       "type": 0,
       "value": "Greater than or equals"
+    }
+  ],
+  "label.grouped": [
+    {
+      "type": 0,
+      "value": "Grouped"
+    }
+  ],
+  "label.hostname": [
+    {
+      "type": 0,
+      "value": "Hostname"
+    }
+  ],
+  "label.includes": [
+    {
+      "type": 0,
+      "value": "Includes"
+    }
+  ],
+  "label.insight": [
+    {
+      "type": 0,
+      "value": "Insight"
     }
   ],
   "label.insights": [
@@ -479,6 +707,12 @@
       "value": "Is"
     }
   ],
+  "label.is-false": [
+    {
+      "type": 0,
+      "value": "Is false"
+    }
+  ],
   "label.is-not": [
     {
       "type": 0,
@@ -497,6 +731,12 @@
       "value": "Is set"
     }
   ],
+  "label.is-true": [
+    {
+      "type": 0,
+      "value": "Is true"
+    }
+  ],
   "label.join": [
     {
       "type": 0,
@@ -507,6 +747,24 @@
     {
       "type": 0,
       "value": "Join team"
+    }
+  ],
+  "label.journey": [
+    {
+      "type": 0,
+      "value": "Journey"
+    }
+  ],
+  "label.journey-description": [
+    {
+      "type": 0,
+      "value": "Understand how users navigate through your website."
+    }
+  ],
+  "label.journeys": [
+    {
+      "type": 0,
+      "value": "Journeys"
     }
   ],
   "label.language": [
@@ -525,6 +783,12 @@
     {
       "type": 0,
       "value": "மடிக்கணினி"
+    }
+  ],
+  "label.last-click": [
+    {
+      "type": 0,
+      "value": "Last click"
     }
   ],
   "label.last-days": [
@@ -555,6 +819,26 @@
       "value": " மணி"
     }
   ],
+  "label.last-months": [
+    {
+      "type": 0,
+      "value": "Last "
+    },
+    {
+      "type": 1,
+      "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " months"
+    }
+  ],
+  "label.last-seen": [
+    {
+      "type": 0,
+      "value": "Last seen"
+    }
+  ],
   "label.leave": [
     {
       "type": 0,
@@ -579,6 +863,12 @@
       "value": "Less than or equals"
     }
   ],
+  "label.links": [
+    {
+      "type": 0,
+      "value": "Links"
+    }
+  ],
   "label.login": [
     {
       "type": 0,
@@ -597,10 +887,28 @@
       "value": "Manage"
     }
   ],
+  "label.manager": [
+    {
+      "type": 0,
+      "value": "Manager"
+    }
+  ],
   "label.max": [
     {
       "type": 0,
       "value": "Max"
+    }
+  ],
+  "label.maximize": [
+    {
+      "type": 0,
+      "value": "Expand"
+    }
+  ],
+  "label.medium": [
+    {
+      "type": 0,
+      "value": "Medium"
     }
   ],
   "label.member": [
@@ -625,6 +933,12 @@
     {
       "type": 0,
       "value": "கைபேசி"
+    }
+  ],
+  "label.model": [
+    {
+      "type": 0,
+      "value": "Model"
     }
   ],
   "label.more": [
@@ -703,10 +1017,46 @@
       "value": "OK"
     }
   ],
+  "label.online": [
+    {
+      "type": 0,
+      "value": "Online"
+    }
+  ],
+  "label.organic-search": [
+    {
+      "type": 0,
+      "value": "Organic search"
+    }
+  ],
+  "label.organic-shopping": [
+    {
+      "type": 0,
+      "value": "Organic shopping"
+    }
+  ],
+  "label.organic-social": [
+    {
+      "type": 0,
+      "value": "Organic social"
+    }
+  ],
+  "label.organic-video": [
+    {
+      "type": 0,
+      "value": "Organic video"
+    }
+  ],
   "label.os": [
     {
       "type": 0,
       "value": "OS"
+    }
+  ],
+  "label.other": [
+    {
+      "type": 0,
+      "value": "Other"
     }
   ],
   "label.overview": [
@@ -719,6 +1069,12 @@
     {
       "type": 0,
       "value": "Owner"
+    }
+  ],
+  "label.page": [
+    {
+      "type": 0,
+      "value": "Page"
     }
   ],
   "label.page-of": [
@@ -757,10 +1113,58 @@
       "value": "பக்கங்கள்"
     }
   ],
+  "label.paid-ads": [
+    {
+      "type": 0,
+      "value": "Paid ads"
+    }
+  ],
+  "label.paid-search": [
+    {
+      "type": 0,
+      "value": "Paid search"
+    }
+  ],
+  "label.paid-shopping": [
+    {
+      "type": 0,
+      "value": "Paid shopping"
+    }
+  ],
+  "label.paid-social": [
+    {
+      "type": 0,
+      "value": "Paid social"
+    }
+  ],
+  "label.paid-video": [
+    {
+      "type": 0,
+      "value": "Paid video"
+    }
+  ],
   "label.password": [
     {
       "type": 0,
       "value": "கடவுச்சொல்"
+    }
+  ],
+  "label.path": [
+    {
+      "type": 0,
+      "value": "Path"
+    }
+  ],
+  "label.paths": [
+    {
+      "type": 0,
+      "value": "Paths"
+    }
+  ],
+  "label.pixels": [
+    {
+      "type": 0,
+      "value": "Pixels"
     }
   ],
   "label.powered-by": [
@@ -773,10 +1177,40 @@
       "value": " ஆல் இயக்கப்படுகிறது"
     }
   ],
+  "label.previous": [
+    {
+      "type": 0,
+      "value": "Previous"
+    }
+  ],
+  "label.previous-period": [
+    {
+      "type": 0,
+      "value": "Previous period"
+    }
+  ],
+  "label.previous-year": [
+    {
+      "type": 0,
+      "value": "Previous year"
+    }
+  ],
   "label.profile": [
     {
       "type": 0,
       "value": "சுயவிவரம்"
+    }
+  ],
+  "label.properties": [
+    {
+      "type": 0,
+      "value": "Properties"
+    }
+  ],
+  "label.property": [
+    {
+      "type": 0,
+      "value": "Property"
     }
   ],
   "label.queries": [
@@ -801,6 +1235,12 @@
     {
       "type": 0,
       "value": "தற்போதைய"
+    }
+  ],
+  "label.referral": [
+    {
+      "type": 0,
+      "value": "Referral"
     }
   ],
   "label.referrer": [
@@ -837,6 +1277,12 @@
     {
       "type": 0,
       "value": "Regions"
+    }
+  ],
+  "label.remaining": [
+    {
+      "type": 0,
+      "value": "Remaining"
     }
   ],
   "label.remove": [
@@ -887,6 +1333,18 @@
       "value": "Measure your website stickiness by tracking how often users return."
     }
   ],
+  "label.revenue": [
+    {
+      "type": 0,
+      "value": "Revenue"
+    }
+  ],
+  "label.revenue-description": [
+    {
+      "type": 0,
+      "value": "Look into your revenue across time."
+    }
+  ],
   "label.role": [
     {
       "type": 0,
@@ -929,6 +1387,12 @@
       "value": "Select date"
     }
   ],
+  "label.select-filter": [
+    {
+      "type": 0,
+      "value": "Select filter"
+    }
+  ],
   "label.select-role": [
     {
       "type": 0,
@@ -939,6 +1403,18 @@
     {
       "type": 0,
       "value": "Select website"
+    }
+  ],
+  "label.session": [
+    {
+      "type": 0,
+      "value": "Session"
+    }
+  ],
+  "label.session-data": [
+    {
+      "type": 0,
+      "value": "Session data"
     }
   ],
   "label.sessions": [
@@ -953,6 +1429,12 @@
       "value": "அமைப்புகள்"
     }
   ],
+  "label.share": [
+    {
+      "type": 0,
+      "value": "Share"
+    }
+  ],
   "label.share-url": [
     {
       "type": 0,
@@ -963,6 +1445,30 @@
     {
       "type": 0,
       "value": "ஒரு நாள்"
+    }
+  ],
+  "label.sms": [
+    {
+      "type": 0,
+      "value": "SMS"
+    }
+  ],
+  "label.sources": [
+    {
+      "type": 0,
+      "value": "Sources"
+    }
+  ],
+  "label.start-step": [
+    {
+      "type": 0,
+      "value": "Start Step"
+    }
+  ],
+  "label.steps": [
+    {
+      "type": 0,
+      "value": "Steps"
     }
   ],
   "label.sum": [
@@ -977,6 +1483,18 @@
       "value": "கையடக்க கணினி"
     }
   ],
+  "label.tag": [
+    {
+      "type": 0,
+      "value": "Tag"
+    }
+  ],
+  "label.tags": [
+    {
+      "type": 0,
+      "value": "Tags"
+    }
+  ],
   "label.team": [
     {
       "type": 0,
@@ -987,6 +1505,12 @@
     {
       "type": 0,
       "value": "Team ID"
+    }
+  ],
+  "label.team-manager": [
+    {
+      "type": 0,
+      "value": "Team manager"
     }
   ],
   "label.team-member": [
@@ -1007,6 +1531,12 @@
       "value": "Team owner"
     }
   ],
+  "label.team-settings": [
+    {
+      "type": 0,
+      "value": "Team settings"
+    }
+  ],
   "label.team-view-only": [
     {
       "type": 0,
@@ -1023,6 +1553,12 @@
     {
       "type": 0,
       "value": "Teams"
+    }
+  ],
+  "label.terms": [
+    {
+      "type": 0,
+      "value": "Terms"
     }
   ],
   "label.theme": [
@@ -1091,6 +1627,12 @@
       "value": "கண்காணிப்பு குறியீடு"
     }
   ],
+  "label.transactions": [
+    {
+      "type": 0,
+      "value": "Transactions"
+    }
+  ],
   "label.transfer": [
     {
       "type": 0,
@@ -1127,6 +1669,12 @@
       "value": "தனிப்பட்ட பார்வையாளர்கள்"
     }
   ],
+  "label.uniqueCustomers": [
+    {
+      "type": 0,
+      "value": "Unique Customers"
+    }
+  ],
   "label.unknown": [
     {
       "type": 0,
@@ -1139,16 +1687,10 @@
       "value": "Untitled"
     }
   ],
-  "label.url": [
+  "label.update": [
     {
       "type": 0,
-      "value": "URL"
-    }
-  ],
-  "label.urls": [
-    {
-      "type": 0,
-      "value": "URLs"
+      "value": "Update"
     }
   ],
   "label.user": [
@@ -1167,6 +1709,18 @@
     {
       "type": 0,
       "value": "Users"
+    }
+  ],
+  "label.utm": [
+    {
+      "type": 0,
+      "value": "UTM"
+    }
+  ],
+  "label.utm-description": [
+    {
+      "type": 0,
+      "value": "Track your campaigns through UTM parameters."
     }
   ],
   "label.value": [
@@ -1199,10 +1753,28 @@
       "value": "பார்வைகள்"
     }
   ],
+  "label.views-per-visit": [
+    {
+      "type": 0,
+      "value": "Views per visit"
+    }
+  ],
+  "label.visit-duration": [
+    {
+      "type": 0,
+      "value": "சராசரி வருகை நேரம்"
+    }
+  ],
   "label.visitors": [
     {
       "type": 0,
       "value": "பார்வையாளர்கள்"
+    }
+  ],
+  "label.visits": [
+    {
+      "type": 0,
+      "value": "Visits"
     }
   ],
   "label.website": [
@@ -1281,6 +1853,18 @@
       "pluralType": "cardinal",
       "type": 6,
       "value": "x"
+    }
+  ],
+  "message.bad-request": [
+    {
+      "type": 0,
+      "value": "Bad request"
+    }
+  ],
+  "message.collected-data": [
+    {
+      "type": 0,
+      "value": "Collected data"
     }
   ],
   "message.confirm-delete": [
@@ -1369,6 +1953,12 @@
     {
       "type": 1,
       "value": "url"
+    }
+  ],
+  "message.forbidden": [
+    {
+      "type": 0,
+      "value": "Forbidden"
     }
   ],
   "message.go-to-settings": [
@@ -1465,6 +2055,18 @@
       "value": "உங்களிடம் எந்த வலைத்தளங்களும் கட்டமைக்கப்படவில்லை."
     }
   ],
+  "message.not-found": [
+    {
+      "type": 0,
+      "value": "Not found"
+    }
+  ],
+  "message.nothing-selected": [
+    {
+      "type": 0,
+      "value": "Nothing selected."
+    }
+  ],
   "message.page-not-found": [
     {
       "type": 0,
@@ -1495,6 +2097,12 @@
     {
       "type": 0,
       "value": "வெற்றிகரமாக சேமிக்கப்பட்டது."
+    }
+  ],
+  "message.sever-error": [
+    {
+      "type": 0,
+      "value": "Server error"
     }
   ],
   "message.share-url": [
@@ -1555,6 +2163,12 @@
       "value": "Triggered event"
     }
   ],
+  "message.unauthorized": [
+    {
+      "type": 0,
+      "value": "Unauthorized"
+    }
+  ],
   "message.user-deleted": [
     {
       "type": 0,
@@ -1599,12 +2213,6 @@
     {
       "type": 0,
       "value": "லில் பயன்படுத்துகிறார்"
-    }
-  ],
-  "message.visitors-dropped-off": [
-    {
-      "type": 0,
-      "value": "Visitors dropped off"
     }
   ]
 }
